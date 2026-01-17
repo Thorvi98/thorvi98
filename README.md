@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Vitor Hugo Pereira
 
-**`Analista de Dados`**
+**`Data Analyst`**
 
 Hi! I'm Vitor, a Systems Analysis and Development student from Rio de Janeiro, Brazil, graduating in December 2026.  
 I'm highly interested in data analysis, business intelligence, and artificial intelligence, with a strong passion for using technology to turn data into valuable insights.
